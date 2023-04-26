@@ -25,14 +25,14 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
+<!-- <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
+  <!-- <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/> -->
 
   <h3><b>Hello Microverse</b></h3>
 
-</div>
+</div> -->
 
 <!-- TABLE OF CONTENTS -->
 
@@ -62,7 +62,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+<!-- > Describe your project in 1 or 2 sentences. -->
 
 **Hello Microverse** is a...
 
@@ -75,7 +75,7 @@ After you're finished please remove all the comments and instructions!
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">HTML and CSS</a></li>
+    <li>HTML and CSS</li>
   </ul>
 </details>
 
@@ -207,7 +207,7 @@ Example:
 
 👤 **Amar Muha**
 
-- GitHub: [@githubhandle](https://github.com/amarmahdi1112)
+- GitHub: [@amarmahdi1112](https://github.com/amarmahdi1112)
 <!-- - Twitter: [@twitterhandle](https://twitter.com/twitterhandle) -->
 - LinkedIn: [LinkedIn](https://linkedin.com/in/amar-muha-698080178)
 
@@ -283,6 +283,6 @@ I would like to thank...
 
 This project is [MIT](./LICENSE.md) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+<!-- _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._ -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
