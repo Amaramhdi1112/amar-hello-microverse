@@ -70,7 +70,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+<!-- > Describe the tech stack and include only the relevant sections that apply to your project. -->
 
 <details>
   <summary>Client</summary>
@@ -119,13 +119,13 @@ After you're finished please remove all the comments and instructions!
 
 <!-- ## 💻 Getting Started <a name="getting-started"></a> -->
 
-> Describe how a new developer could make use of your project.
+<!-- > Describe how a new developer could make use of your project.
 
-To get a local copy up and running, follow these steps.
+To get a local copy up and running, follow these steps. -->
 
 <!-- ### Prerequisites -->
 
-In order to run this project you need:
+<!-- In order to run this project you need: -->
 
 <!--
 Example command:
@@ -137,7 +137,7 @@ Example command:
 
 <!-- ### Setup -->
 
-Clone this repository to your desired folder:
+<!-- Clone this repository to your desired folder: -->
 
 <!--
 Example commands:
@@ -150,7 +150,7 @@ Example commands:
 
 <!-- ### Install -->
 
-Install this project with:
+<!-- Install this project with: -->
 
 <!--
 Example command:
@@ -163,7 +163,7 @@ Example command:
 
 <!-- ### Usage -->
 
-To run the project, execute the following command:
+<!-- To run the project, execute the following command: -->
 
 <!--
 Example command:
@@ -175,7 +175,7 @@ Example command:
 
 <!-- ### Run tests -->
 
-To run tests, run the following command:
+<!-- To run tests, run the following command: -->
 
 <!--
 Example command:
@@ -187,7 +187,7 @@ Example command:
 
 <!-- ### Deployment -->
 
-You can deploy this project using:
+<!-- You can deploy this project using: -->
 
 <!--
 Example:
@@ -203,7 +203,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
+<!-- > Mention all of the collaborators of this project. -->
 
 👤 **Amar Muha**
 
@@ -281,7 +281,7 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
