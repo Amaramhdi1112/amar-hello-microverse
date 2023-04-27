@@ -42,20 +42,12 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  <!-- - [🚀 Live Demo](#live-demo) -->
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
@@ -67,6 +59,7 @@ After you're finished please remove all the comments and instructions!
 **Hello Microverse** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
+<br>
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -78,48 +71,19 @@ After you're finished please remove all the comments and instructions!
     <li>HTML and CSS</li>
   </ul>
 </details>
-
-<!-- <details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details> -->
-
+<br>
 <!-- Features -->
 
-<!-- ### Key Features <a name="key-features"></a> -->
+### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- Displaying a header tag
+> Displaying a header tag.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO 
 
-<!-- ## 🚀 Live Demo <a name="live-demo"></a>
+GETTING STARTED
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
-
-<!-- GETTING STARTED -->
-
-<!-- ## 💻 Getting Started <a name="getting-started"></a> -->
-
-<!-- > Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps. -->
+## 💻 Getting Started <a name="getting-started"></a>
 
 ### Prerequisites
 
@@ -194,7 +158,7 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+### Authors <a name="authors"></a>
 
 <!-- > Mention all of the collaborators of this project. -->
 
